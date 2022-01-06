@@ -2,6 +2,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=pawelWritesCode&color=brightgreen&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=pawelWritesCode&color=brightgreen&label=Profile+views) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-chmielewski-8343bb171/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-chmielewski-8343bb171/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawelWritesCode)](https://github.com/anuraghazra/github-readme-stats)
