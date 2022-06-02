@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paweł Chmielewski 🇵🇱
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Paweł Chmielewski 🇵🇱
 
 ---
 
